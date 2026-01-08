@@ -27,7 +27,7 @@ body{
   font-family: 'outfit', sans-serif;
 }
 
-.container .image{
+.container .image >img{
   width: 100%;
   border-radius: 15px;
 }
